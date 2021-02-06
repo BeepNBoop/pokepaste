@@ -12,8 +12,8 @@ var pokemonData = map[string]map[string]interface{}{
 		"type": "grass",
 	},
 	"Bulbasaur-Delta": {
-		"id":	unit(1),
-		"form":	unit(1),
+		"id":	uint(1),
+		"form":	uint(1),
 		"type": "fairy",
 	},
 	"Ivysaur": {
