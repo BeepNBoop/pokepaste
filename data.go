@@ -15,7 +15,7 @@ var pokemonData = map[string]map[string]interface{}{
 		"id":	unit(1),
 		"form":	unit(1),
 		"type": "fairy",
-	}
+	},
 	"Ivysaur": {
 		"id":   uint(2),
 		"form": uint(0),
